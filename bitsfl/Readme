@@ -1,0 +1,7 @@
+Fork from: https://github.com/kiyo-masui/bitshuffle
+
+Arm neon optimization:
+Macro "USEARMNEON" is the switch to enble Arm neon.
+
+Test: 1MB data block
+gcc -o test test.c bitshuffle_core.c
