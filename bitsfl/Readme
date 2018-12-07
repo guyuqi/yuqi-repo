@@ -1,4 +1,5 @@
 Fork from: https://github.com/kiyo-masui/bitshuffle
+PR: https://github.com/kiyo-masui/bitshuffle/pull/71
 
 Arm neon optimization:
 Macro "USEARMNEON" is the switch to enble Arm neon.
